@@ -22,6 +22,10 @@ main {
 h1 {
     font-size: 2rem;
     margin-bottom: 1rem;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+
 }
 
 .bio-intro {
@@ -39,6 +43,7 @@ h2 {
     border-bottom: 2px solid #333;
     padding-bottom: 0.5rem;
     margin-bottom: 1rem;
+
 }
 
 section p {
@@ -92,6 +97,7 @@ section p {
     text-decoration: none;
     font-weight: 600;
     border-bottom: 2px solid transparent;
+    
 }
 
 .contact-links a:hover {

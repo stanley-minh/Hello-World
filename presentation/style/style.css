@@ -144,5 +144,9 @@ h2 {
 
 .contact-links a:hover {
     color: var(--color-primary);
+    border-bottom-color: var(--color-accent);
+}
+.skills-category li:hover {
+    color: var( --color-accent);
     border-bottom-color: var(--color-primary);
 }
